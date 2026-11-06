@@ -17,13 +17,13 @@ Banyak lulusan sudah berusaha melamar, tetapi tersisih di tahap seleksi atau kel
 
 ## Main Features
 
-**Gavi Konsul**
+**1. Gavi Konsul**
 _User_ dapat mengisi perusahaan dan posisi target dan mengunggah CV. Dari sana, Gavi (AI dalam Gladi) membandingkannya dengan kebutuhan posisi itu dan menyusun peta kesenjangan (keterampilan, pengalaman, dan pengetahuan tentang perusahaan) serta rencana 30 hari. Selain itu, _user_ dapat membicarakan bebas perihal kerjaan dan karier.
 
-**Gavi Role Play**
+**2. Gavi Role Play**
 Di sini, _user_ dapat menceritakan masalah atau situasi yang ingin dilatih. Gavi memerankan lawan bicara yang relevan dan sesuai gaya komunikasi perusahaan tujuan. Setelah sesi ada umpan balik soal isi jawaban, gaya bicara, dan isyarat nonverbal.
 
-**Mentoring Alumni**
+**3. Mentoring Alumni**
 _Mentoring_ ini memiliki sesi 60 menit, satu mentor satu peserta (1-_on_-1) dengan alumni dari perusahaan yang dituju. Di sini, mentor membahas ritme kerja sehari-hari, 90 hari pertama, dan hal-hal yang tidak tertulis di situs karier serta mentor akan menerima ringkasan hasil simulasimu sebelum sesi. Dari sini akan terdapat _readiness report_, yaitu berupa rangkuman posisi tujuan terhadap perusahaan tujuan, perkembangan dari sesi ke sesi, dan rekomendasi langkah untuk ditempuh selanjutnya.
 
 ## Alur Operasional
