@@ -2,15 +2,14 @@
 
 **Lakukan gladi resik sebelum hari-H karier!**
 
-Gladi adalah _website_ untuk latihan masuk ke satu perusahaan tujuan. _User_ dapat memilih perusahaan dan posisi yang diincar, cek di mana dia masih kurang, _mock_-_up_ wawancara dan situasi kerja, dan ngobrol langsung dengan alumni yang sudah bekerja di sana. Dibuat untuk mahasiswa tingkat akhir, _fresh graduate_, dan pencari kerja pertama.
+Gladi adalah _website_ untuk latihan masuk ke satu perusahaan tujuan. _User_ dapat memilih perusahaan dan posisi yang diincar, cek di mana dia masih kurang, _mock_-_up_ wawancara dan situasi kerja, serta ngobrol langsung dengan alumni yang sudah bekerja di sana. Dibuat untuk mahasiswa tingkat akhir, _fresh graduate_, dan pencari kerja pertama.
 
 🔗 **_Link prototype_** `https://doaibuteam.github.io/gladi-prototype/`
 
 ---
+## Latar Belakang
 
-## Kenapa Gladi dibuat
-
-Banyak lulusan sudah berusaha melamar, tapi tersisih di tahap seleksi atau keluar tidak lama setelah diterima. Biasanya ada tiga sebabnya:
+Banyak lulusan sudah berusaha melamar, tetapi tersisih di tahap seleksi atau keluar tidak lama setelah diterima. Hal ini dapat dilatar belakangi oleh tiga sebab:
 
 1. **Kemampuan dan pengalaman belum cukup**, dan tidak ada tempat latihan yang mirip kondisi kerja sungguhan.
 2. **Jawaban terlalu umum**, tidak disesuaikan dengan karakter perusahaan, dan bahasa tubuh tidak pernah dilatih.
