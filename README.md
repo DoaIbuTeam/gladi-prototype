@@ -15,7 +15,7 @@ Banyak lulusan sudah berusaha melamar, tetapi tersisih di tahap seleksi atau kel
 2. **Jawaban terlalu umum** yang mana tidak disesuaikan dengan karakter perusahaan dan bahasa tubuh tidak pernah dilatih.
 3. **Budaya kerja baru kelihatan setelah masuk** karena informasinya hanya terbatas dari materi _employer branding_.
 
-## Tiga fitur utama
+## Main Features
 
 **Gavi Konsul**
 _User_ dapat mengisi perusahaan dan posisi target dan mengunggah CV. Dari sana, Gavi (AI dalam Gladi) membandingkannya dengan kebutuhan posisi itu dan menyusun peta kesenjangan (keterampilan, pengalaman, dan pengetahuan tentang perusahaan) serta rencana 30 hari. Selain itu, _user_ dapat membicarakan bebas perihal kerjaan dan karier.
@@ -35,7 +35,7 @@ _Mentoring_ ini memiliki sesi 60 menit, satu mentor satu peserta (1-_on_-1) deng
 5. Sesi _mentoring_ dan bahas hasil simulasi
 6. Baca _readiness report_ dan tentukan tindak lanjut
 
-## Paket
+## Paket (_Membership_)
 
 | Paket | Isi | Harga |
 |---|---|---|
@@ -45,7 +45,7 @@ _Mentoring_ ini memiliki sesi 60 menit, satu mentor satu peserta (1-_on_-1) deng
 
 Versi dasar Gavi Konsul gratis sebagai pintu masuk _user_ pertama kali dan teman/orang lain yang memakai kode _referral_, mendapat diskon 10% di ketiga paket.
 
-## Status prototipe
+## Batas Prototipe
 
 Yang sudah ada di demo ini:
 
@@ -61,7 +61,7 @@ Yang masih simulasi atau belum ada:
 - Analisis nonverbal lewat kamera belum aktif.
 - Readiness Report masih berbentuk demo dan dihitung dari aktivitas di sesi yang sedang berjalan.
 
-## Privasi dan etika
+## Privasi dan Etika
 
 Rencananya Gladi mengikuti UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi, yaitu persetujuan eksplisit sebelum rekaman suara atau video diproses, data bisa dihapus kapan saja, dan tidak dijual. Persona perusahaan disusun dari informasi publik dan wawancara terstandar dengan alumni. Mentor dilarang membocorkan soal atau informasi rahasia perusahaan.
 
