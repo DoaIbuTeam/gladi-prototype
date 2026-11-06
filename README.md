@@ -71,4 +71,4 @@ Rencananya Gladi mengikuti UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi
 - Salma Muthia, Universitas Gadjah Mada
 - Suci Ramadhani, Universitas Gadjah Mada
 
-Edubiz Competition 2026
+Business Case Competition | Edubiz 2026
