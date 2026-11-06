@@ -31,12 +31,12 @@ _Mentoring_ ini memiliki sesi 60 menit, satu mentor satu peserta (1-_on_-1) deng
 
 ## Alur Operasional
 
-1. Daftar, pilih perusahaan dan posisi target, unggah CV (portofolio opsional)
-2. Gavi Konsul membuat peta kesenjangan dan rencana 30 hari
-3. Latihan di Gavi Role Play dan baca umpan baliknya
-4. Cocokkan dan jadwalkan mentor
-5. Sesi _mentoring_ dan bahas hasil simulasi
-6. Baca _readiness report_ dan tentukan tindak lanjut
+1. Daftar, pilih perusahaan dan posisi target, unggah CV (portofolio opsional).
+2. Gavi Konsul membuat peta kesenjangan dan rencana 30 hari.
+3. Latihan di Gavi Role Play dan baca umpan baliknya.
+4. Cocokkan dan jadwalkan mentor.
+5. Sesi _mentoring_ dan bahas hasil simulasi.
+6. Baca _readiness report_ dan tentukan tindak lanjut.
 
 ## Paket (_Membership_)
 
