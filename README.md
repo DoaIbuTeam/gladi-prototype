@@ -2,13 +2,9 @@
 
 **Lakukan gladi resik sebelum hari-H karier!**
 
-Gladi adalah website untuk latihan masuk ke satu perusahaan tujuan. Kamu pilih perusahaan dan posisi yang diincar, cek kamu masih kurang di mana, latihan wawancara dan situasi kerja, lalu ngobrol langsung dengan alumni yang sudah bekerja di sana.
+Gladi adalah _website_ untuk latihan masuk ke satu perusahaan tujuan. _User_ dapat memilih perusahaan dan posisi yang diincar, cek di mana dia masih kurang, _mock_-_up_ wawancara dan situasi kerja, dan ngobrol langsung dengan alumni yang sudah bekerja di sana. Dibuat untuk mahasiswa tingkat akhir, _fresh graduate_, dan pencari kerja pertama.
 
-Dibuat untuk mahasiswa tingkat akhir, fresh graduate, dan pencari kerja pertama.
-
-🔗 **Coba demonya:** `https://NAMA-GITHUB-KAMU.github.io/NAMA-REPO/`
-
-> Ini prototipe untuk Edubiz Competition 2026, jadi masih tahap gagasan. Detail yang sudah jalan dan yang belum ada di bagian [Status prototipe](#status-prototipe).
+🔗 **_Link prototype_** `https://doaibuteam.github.io/gladi-prototype/`
 
 ---
 
